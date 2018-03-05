@@ -11,4 +11,4 @@ This is the repository for uploading my answer to GSOC JdeRobot programming-test
 
 ## Contact
 - Name: Jianxiong Cai
-- Email: caijx@shanghaitech.edu.cn
+- Email: caijx@shanghaitech.edu.cn / ernestme@icloud.com
